@@ -1,0 +1,47 @@
+.thumbnailImage {
+  width: 100%;
+}
+
+.popup-content {
+  width: 55%;
+  height: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.btn-con {
+  display: flex;
+  flex-direction: column;
+}
+
+.close-btn {
+  align-self: flex-end;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.close-icon {
+  height: 24px;
+  width: 24px;
+  margin-right: 0px;
+  padding-right: 0px;
+  color: gray;
+}
+
+.player-con {
+  margin: 0px 40px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.video-link {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}
